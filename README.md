@@ -12,7 +12,7 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 
 ## Build Application
 
-1) Clone the project : https://github.com/dileep-thomas-ig/reward-points.git
+1) Clone the project : https://github.com/dileep-thomas-ig/reward-points-app.git
 2) Run mvn clean install.
 
 3) Run below command to start the application
